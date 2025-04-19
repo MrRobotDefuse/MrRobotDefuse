@@ -14,7 +14,7 @@ I'm new to GitHub and the world of development, but I'm actively learning and ex
 Here, you’ll find my experiments and projects. Still a work in progress, but more coming soon!  
 
 ### 💬 Contact  
-If you’d like to collaborate or have suggestions, feel free to reach out on **Telegram** (check my profile for details).  
+If you’d like to collaborate or have suggestions, feel free to reach out on **Telegram** (@MrRobotDefuse).  
 
 **Thanks for stopping by!** Your feedback and stars motivate me to keep growing. ✨  
 <!---
